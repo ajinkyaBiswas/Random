@@ -5,5 +5,5 @@ CNN is better than RNN but not as good as LSTM
 --------------------------------------------------
 Some Practical applications can be(not limited to) social media analysis
 
-Some codes for Instagram, Facebook, Twitter data scraping is here.
+I will keep some codes for Instagram, Facebook, Twitter data scraping here.
 But the main scraper code is not in this public repository
