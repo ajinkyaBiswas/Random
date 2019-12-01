@@ -2,14 +2,14 @@
 
 Folder Structure
 ------------------------------------------------------------
--Random
- |--AWS
- |
- |--Machine Learning
- |
- |--Neural Networks and Deep Learning
-   |-01. Perceptron
-   |     Perceptron.ipynb
+-Random  
+ |--AWS  
+ |  
+ |--Machine Learning  
+ |  
+ |--Neural Networks and Deep Learning  
+   |-01. Perceptron  
+   |     Perceptron.ipynb  
    |-02. KMNIST DataSet - Handwritten digit recognition
    |     KMNIST - Handwritten character Recognition.ipynb
    |-03. Sentiment Analysis
