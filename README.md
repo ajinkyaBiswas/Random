@@ -17,9 +17,9 @@ Folder Structure
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Long Short Term Memory(LSTM).ipynb\
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Convolution Neural Networks (CNN).ipynb\
 &nbsp;|--Projects\
-&nbsp;&nbsp;&nbsp;|-Doc Data\
-&nbsp;&nbsp;&nbsp;|-Doc Data2\
-&nbsp;&nbsp;&nbsp;|-Doc Data2\
-&nbsp;&nbsp;&nbsp;|-Doc Data2\
+&nbsp;&nbsp;&nbsp;|-AI_AWS_Pedometer.pdf\
+&nbsp;&nbsp;&nbsp;|-Document Data Extraction.pdf\
+&nbsp;&nbsp;&nbsp;|-Risk_Classification_Machine_Learning.pdf\
+&nbsp;&nbsp;&nbsp;|-Smart_Waste_Management_AWS_IoT.pdf\
 &nbsp;|--Tableau\
 &nbsp;|
