@@ -16,6 +16,5 @@ Folder Structure
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01. Simple RNN.ipynb\
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;02. Long Short Term Memory(LSTM).ipynb\
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;03. Convolution Neural Networks (CNN).ipynb\
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;04. Gated Recurrent Unit (GRU).ipynb\
 &nbsp;|--Tableau\
 &nbsp;|
