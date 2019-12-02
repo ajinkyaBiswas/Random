@@ -6,7 +6,8 @@ Folder Structure
 &nbsp;|--AWS\
 &nbsp;|\
 &nbsp;|--Machine Learning\
-&nbsp;|\
+&nbsp;&nbsp;&nbsp;|-Insurance Risk Classification\
+&nbsp;&nbsp;&nbsp;|-UNSW Datathon\
 &nbsp;|--Neural Networks and Deep Learning\
 &nbsp;&nbsp;&nbsp;|-01. Perceptron\
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perceptron.ipynb\
