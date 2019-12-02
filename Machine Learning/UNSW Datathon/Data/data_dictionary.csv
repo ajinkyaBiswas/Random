@@ -1,0 +1,25 @@
+Sheet,Description,
+Client_Data,Contains health and demographic data about clients in the data base,
+Treatment_Data_2017,Contains all clients with a heart problem detected in 2017 and which treatment/s they took in 2017,
+Treatment_Information,Contains information regarding the price and frequency of pills eaten as a part of each treatment,
+,,
+,,
+Client_Data,,
+Variable ,Description,Type
+id,id of client,numeric
+sex and age,gender and age of client,numeric and character
+high_BP,whether the client has high blood pressure,boolean
+heart_condition_detected_2017,whether the client had a heart condition detected in 2017,boolean
+married,whether a client is married,boolean
+job_status and living_area ,the job status of the client and where the client lives,character
+average_blood_sugar,the average blood sugar level of the client,float
+BMI,the Body Mass Index of the client,float
+smoker_status,the smoker status of the client,character
+stroke_in_2018,whether the client had a stroke in 2018,boolean
+,,
+Treatment_Data_2017,,
+Variable ,Description,Type
+TreatmentA,client undertook treatment A in 2017,boolean
+TreatmentB,client undertook treatment B in 2017,boolean
+TreatmentC,client undertook treatment C in 2017,boolean
+TreatmentD,client undertook treatment D in 2017,boolean
