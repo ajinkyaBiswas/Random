@@ -4,7 +4,7 @@ Folder Structure
 ------------------------------------------------------------
 -Random\
 &nbsp;|--AWS\
-&nbsp;|\
+&nbsp;&nbsp;&nbsp;|-01. Smart_Bin.jpg\
 &nbsp;|--Machine Learning\
 &nbsp;&nbsp;&nbsp;|-Insurance Risk Classification\
 &nbsp;&nbsp;&nbsp;|-UNSW Datathon\
