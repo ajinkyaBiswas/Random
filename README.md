@@ -5,6 +5,7 @@ Folder Structure
 -Random\
 &nbsp;|--AWS\
 &nbsp;&nbsp;&nbsp;|-01. Smart_Bin.jpg\
+&nbsp;&nbsp;&nbsp;|-02. AWS_AI_Pedometer.jpg\
 &nbsp;|--Machine Learning\
 &nbsp;&nbsp;&nbsp;|-Insurance Risk Classification\
 &nbsp;&nbsp;&nbsp;|-UNSW Datathon\
