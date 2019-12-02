@@ -1,5 +1,8 @@
 # Random
 
+Latest changes are here\
+https://github.com/ajinkyaBiswas/Miscellaneous
+
 Folder Structure
 ------------------------------------------------------------
 -Random\
